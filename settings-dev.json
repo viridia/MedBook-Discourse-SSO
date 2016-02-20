@@ -1,0 +1,10 @@
+{
+  "private": {
+    "discourse": {
+      "sso": {
+        "secret": "i_am_the_very_model_of_a_modern_major_general",
+        "site": "http://107.170.251.173/discuss/"
+      }
+    }
+  }
+}
